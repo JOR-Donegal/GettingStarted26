@@ -1,5 +1,5 @@
 # Professional conduct and netiquette
-My guidelines are informal and unofficial. Formal guidelines are here.
+My guidelines are informal and unofficial, check the University's formal guidelines.
 
 Knowing how to behave professionally can be a challenge and varies in time and location; normal behavior in one time or place is unacceptable in another. This document aims to give you some simple guidelines as to how to behave in your interactions with lecturers, students and employers, both in person and on-line.
 

@@ -9,7 +9,7 @@ Absolutely!
 
 You are never to cut and paste from an Internet source or an AI application. Use them for ideas only.
 
-At the end of some modules, I will demonstrate how to do this in a way that should be acceptable. Until I have done so, __DO NOT USE THESE TOOLS!!__
+At the end of some modules, I will demonstrate how to do this in a way that should be acceptable. Until I have demonstrated how to do so, __DO NOT USE THESE TOOLS!!__
 
 In early 2025, one of my research collaborators asked me to write a parser for a domain specific language (DSL). To get an alpha version of code running took me a half day. He got an alpha version in 10 minutes using ChatGPT4. We tested them.
 
