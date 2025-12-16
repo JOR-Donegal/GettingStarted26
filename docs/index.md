@@ -1,7 +1,7 @@
 # Introduction
 
-!!! abstract "Introduction to Stuff"
+!!! abstract "Getting Started"
 
-This will be the main introduction page
+At the start of any academic course, there is a deluge of documents leaving students bewildered. This document is a summary of what you need to know to work with me. Due to the way academic courses are structured, you will need to get the same information from any other lecturer you work with.
 
-Edit mkdoc.yml to set the name of this document
+Please read this document before beginning your work, you are a graduate, and it is expected that you can show attention to detail.
