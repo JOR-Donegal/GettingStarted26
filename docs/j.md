@@ -20,6 +20,7 @@ Check the syllabus. At level 9 for a ten-credit module, there's an expectation t
 ## Worked Example
 
 It is week 6, I need to complete: 
+
 - A report (15 marks) 
 - An assignment (25 marks)
 - I know I have 20 hours of working time available until the deadline.
