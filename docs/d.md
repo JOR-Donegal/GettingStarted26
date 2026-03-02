@@ -27,4 +27,6 @@ In our modules and courses, we expect professional conduct to include;
 - Integrity
 - Adherence to dress and behavior codes which are appropriate to the environment you are in
 
+Under no circumstances should you list a lecturer or anyone else as a supervisor, reference or contributor in your work without express prior permission.
+
 A last word; you have strong technical skills and you know how to do a wide range of things. As the super-hero movies say, with great power comes great responsibility. In Ireland, we have some of the strictest laws on hacking in existence. You may not access or scan any user’s computer system without written permission, even if you are doing so for ethical reasons. In Ireland, such activity carries a custodial sentence of up to ten years.
