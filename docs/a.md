@@ -17,3 +17,5 @@ You are expected to achieve mastery over the duration of the module, do not unde
 We deliver material via a __Virtual Learning Environment__ (VLE), currently Blackboard.
 
 Where teaching resources are provided, they will be deleted or removed in August each year. If you need access to images or environments after 15th August, you need to discuss with your lecturer directly.
+
+Under no circumstances should you list a lecturer as a supervisor, reference or contributor in your work without express prior permission.
