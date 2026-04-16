@@ -1,4 +1,5 @@
 # Computer Requirements
+
 You need to decide which type of device is most suitable for you. 
 
 For distance education students who cannot access the campus, we are now recommending a desktop, not a laptop computer. This may also be the best solution for students who are doing modules in networking and virtualization and who need more memory than a laptop can cheaply provide. My practical exercises have been tested at a point in time and using conventional PC hardware. If you want to use any other desktop platform (Apple, Chrome Book, Linux), I cannot support it nor confirm that it will work. I have carried out all the practical exercises on a Dell Latitude 5580 from 2017 running Windows 10, with an i5 processor and 32 GB of DRAM. As I revalidate exercises, it is on a Dell 5520 from 2021 with Windows 11 and 32 GB of DRAM. 
@@ -12,6 +13,7 @@ If you have a laptop from your employer, it will not be suitable for this course
 Although in the past, some people did manage to get through this programme of study using Apple hardware, with the move to the new processors (M1, M2, etc) in 2020, Apple hardware is __not compatible with the requirements for practical exercises__.
 
 ## Laptop
+
 A laptop is disposable, buy cheaply and expect to get three years out of it, maximum, if you are lugging it around every day. Treating laptops kindly, they may however last for years (I do have a perfectly working Dell laptop from 2008!).
 
 Pick a processor which supports virtualization. Most modern processors do but check before purchase. Typically, students buy an i3 or i5 processor or the AMD equivalent.
@@ -22,7 +24,8 @@ Every laptop has Wi-Fi and Bluetooth but check to be sure.
 
 For performance, buy a laptop with an SSD (1TB) and learn how to use the cloud to store your data. This is the preferred option as otherwise when your hard drive breaks (it will!) you will lose important work. Newer laptops may have two slots for NVMe SSDs. On my main laptop, my OS is on the original 500GB SSD and I added a 2TB SSD for Virtual Machines.
 
-Without that, you will need an external USB3 SSD drive for VMs and ISOs. 
+Without that, you will need an external USB3 SSD drive for VMs and ISOs.
+
 Think of comfort! You should get a large monitor, keyboard, and mouse for working from home. Laptop ergonomics do not suit working for long periods of time. My laptop connects to external screens via a USB 3 docking station.
 
 Your laptop will come with Windows 11; that will be fine. You should not purchase additional software, as a registered student, you are entitled to MS Office and other software for free. We do NOT recommend buying commercial anti-virus software. Use the free version which comes with Windows 11. Make sure your computer is configured to download and install updates automatically. You may need to upgrade the version of Windows 11 on your laptop as the home version misses many important components. Again, this should be free, alternatively, buy your laptop with Windows 11, 64-bit, Professional.
