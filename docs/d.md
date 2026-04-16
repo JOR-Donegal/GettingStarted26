@@ -20,6 +20,7 @@ In our course, the following rules apply.
 3. A “flame war” is where two or more people have a public shouting match on line. This will result in all parties to the flame war having their discussion board access rights restricted in the interest of the other students.
 
 In our modules and courses, we expect professional conduct to include;
+
 - Tolerance!
 - Respect for the diversity of others
 - An ethic of consistent hard work and honesty
