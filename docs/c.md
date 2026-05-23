@@ -1,4 +1,5 @@
 # Software
+
 You are entitled to a range of software as part of your registration. You should not need to separately purchase any software.
 
 Go to the Student Software page on the main web site and register for Microsoft Azure, Office etc. You should not need to separately buy any software for this module.

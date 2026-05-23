@@ -1,4 +1,5 @@
 # Using the Internet and AI
+
 Over the years, we have all grown to use internet searches for non-authoritative answers. With many things in technology, there are no authoritative answers, just many hours of trying all the ways that do not work before finding the one that does. Is this desirable or acceptable; no. Is it normal, sadly yes.
 
 Part of being a scientist or engineer is learning how to discern the "truth", whatever that means!

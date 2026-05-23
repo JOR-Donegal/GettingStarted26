@@ -1,4 +1,5 @@
 # Minding your data
+
 There is a famous joke in Ireland. Whenever a child does not have their homework done, they claim that _“the dog ate it”_. This is universally considered to be an invalid excuse!
 
 For a computer student to say their hard disk crashed and that they lost their work, is even worse. Hard disk failure is inevitable, given your specialty, you are supposed to know how to handle data and ensure that a predictable event does not result in data loss.

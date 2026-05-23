@@ -1,5 +1,8 @@
 # Grading
+
 These modules are graded as 100% continuous assessment (CA), there are no terminal exams.
+
+You are expected to show attention to detail. Review my notes and tutorials and meet the specific requirements of each assignment. Read widely to allow you to exceed my teaching material, but meet the requirements I have specified before trying to go beyond them.
 
 As you submit CA, I grade it after the closing date. To enable you to be treated in a fair and balanced manner, I use a marking rubric. The idea is that whoever assesses your work will use the same rubric and will grade in a very similar manner. If you find the part of your submission has not been graded, and has no comments against it, bring it to my attention immediately. If you believe I have incorrectly graded your work, discuss with me immediately.
 

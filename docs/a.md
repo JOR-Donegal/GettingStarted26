@@ -1,5 +1,6 @@
 # General
-The post-graduate courses in Cloud have been operational since 2015 and were intended to upskill technical graduates to mastery in a range of specific knowledge areas required by industry. The most recent evaluation and update of these courses and modules was in early 2022.
+
+The post-graduate courses in Cloud have been operational since 2015 and were intended to upskill technical graduates to mastery in a range of specific knowledge areas required by industry. The most recent evaluation and update of the syllabi for these courses and modules was in early 2022. Content is continually updated.
 
 As platforms for teaching, we will focus on
 
